@@ -39,7 +39,7 @@ Esses desafios contribuíram para o aprendizado e aprimoramento das habilidades 
 🌍 Como Acessar
 
 O projeto foi publicado no GitHub Pages e pode ser acessado pelo seguinte link:
-🔗 https://github.com/MairaCNA1/amigo-secreto
+🔗 https://github.com/MairaCNA1/amigo-secreto](https://mairacna1.github.io/amigo-secreto/
 
 
 
